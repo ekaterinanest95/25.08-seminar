@@ -1,0 +1,15 @@
+D:\Documents\education_analytic\Practise\25.08 srminar\seminar\Ex51\obj\Debug\net6.0\Ex51.csproj.AssemblyReference.cache
+D:\Documents\education_analytic\Practise\25.08 srminar\seminar\Ex51\obj\Debug\net6.0\Ex51.GeneratedMSBuildEditorConfig.editorconfig
+D:\Documents\education_analytic\Practise\25.08 srminar\seminar\Ex51\obj\Debug\net6.0\Ex51.AssemblyInfoInputs.cache
+D:\Documents\education_analytic\Practise\25.08 srminar\seminar\Ex51\obj\Debug\net6.0\Ex51.AssemblyInfo.cs
+D:\Documents\education_analytic\Practise\25.08 srminar\seminar\Ex51\obj\Debug\net6.0\Ex51.csproj.CoreCompileInputs.cache
+D:\Documents\education_analytic\Practise\25.08 srminar\seminar\Ex51\bin\Debug\net6.0\Ex51.exe
+D:\Documents\education_analytic\Practise\25.08 srminar\seminar\Ex51\bin\Debug\net6.0\Ex51.deps.json
+D:\Documents\education_analytic\Practise\25.08 srminar\seminar\Ex51\bin\Debug\net6.0\Ex51.runtimeconfig.json
+D:\Documents\education_analytic\Practise\25.08 srminar\seminar\Ex51\bin\Debug\net6.0\Ex51.dll
+D:\Documents\education_analytic\Practise\25.08 srminar\seminar\Ex51\bin\Debug\net6.0\Ex51.pdb
+D:\Documents\education_analytic\Practise\25.08 srminar\seminar\Ex51\obj\Debug\net6.0\Ex51.dll
+D:\Documents\education_analytic\Practise\25.08 srminar\seminar\Ex51\obj\Debug\net6.0\refint\Ex51.dll
+D:\Documents\education_analytic\Practise\25.08 srminar\seminar\Ex51\obj\Debug\net6.0\Ex51.pdb
+D:\Documents\education_analytic\Practise\25.08 srminar\seminar\Ex51\obj\Debug\net6.0\Ex51.genruntimeconfig.cache
+D:\Documents\education_analytic\Practise\25.08 srminar\seminar\Ex51\obj\Debug\net6.0\ref\Ex51.dll
